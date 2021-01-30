@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="appbar_padding">16dp</dimen>
+    <dimen name="title_textSize">18sp</dimen>
+    <dimen name="subtitle_size">16sp</dimen>
+    <dimen name="margin_left">6dp</dimen>
+    <dimen name="padding_editText">10dp</dimen>
+    <dimen name="edit_text_height">37dp</dimen>
+</resources>

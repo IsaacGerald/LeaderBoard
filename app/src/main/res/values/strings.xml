@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TopLearners</string>
+    <string name="learning_leaders">Learning Leaders</string>
+    <string name="skill_iq_leaders">Skill IQ Leaders</string>
+    <string name="leaderboard">LEADERBOARD</string>
+    <string name="submit">Submit</string>
+    <string name="first_fragment">First Fragment</string>
+    <string name="loading_data_from_api">Error Loading data from Api</string>
+    <string name="text_name">Text Name</string>
+    <string name="text_hours">Text Hours</string>
+    <string name="title_name">Title Name</string>
+    <string name="text_score">Text Score</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email address</string>
+    <string name="project_on_github_link">Project on GITHUB (link)</string>
+    <string name="submission_not_successful">Submission not successful</string>
+    <string name="submission_successful">Submission Successful</string>
+    <string name="are_you_sure">Are you sure?</string>
+    <string name="yes">Yes</string>
+</resources>
